@@ -4,24 +4,30 @@
   
 
 
-"users": [
-  {
-    "username": "Bharat",
-    "email": "bharat@gmail.com",
-    "password": "123",
-    "status": "User",
-    "id": 1
-  },
-  {
-    "username": "sharma",
-    "email": "sharma@gmail.com",
-    "password": "123",
-    "status": "Doctor",
-    "id": 2
-  }
-  
-
-    
+  "users": [
+    {
+      "name": "BHARAT",
+      "email": "bharat@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "BHARAT",
+      "email": "bharat09@gmail.com",
+      "password": "123",
+      "id": 2
+    }
+  ],
+  "income": [],
+  "expense": [
+    {
+      "type": "Expense",
+      "category": "Bills",
+      "rupee": "500",
+      "date": "2023-06-05",
+      "userId": "bharat@gmail.com",
+      "id": 1
+    }
   ],
 
   "freelancers": [
